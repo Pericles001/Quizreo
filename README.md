@@ -4,4 +4,20 @@ A web application: simple and minimalistic for people who like quiz games and su
 ## Description
 
 
-## Technology stac
+## Diagrams
+
+## Technologies
+
+## Features
+
+## Demo
+
+## Usage
+
+## Contributing
+
+## Aknowledgments
+
+## Contributors
+
+
