@@ -1,3 +1,9 @@
 [submodule "Quizreo_landing"]
 	path = Quizreo_landing
 	url = https://github.com/Pericles001/Quizreo_landing.git
+[submodule "Quizreo_frontend"]
+	path = Quizreo_frontend
+	url = https://github.com/Pericles001/Quizreo_frontend.git
+[submodule "Quizreo_backend"]
+	path = Quizreo_backend
+	url = https://github.com/Pericles001/Quizreo_backend.git
